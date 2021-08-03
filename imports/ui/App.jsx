@@ -1,4 +1,3 @@
-import '@fontsource/roboto';
 import React, { useState } from 'react';
 import { Message } from './Message'
 import { useTracker } from 'meteor/react-meteor-data'
